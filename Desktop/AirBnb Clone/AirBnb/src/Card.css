@@ -1,0 +1,43 @@
+
+.badge{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: white;
+    width: 90px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin-left: 20px;
+    position: relative;
+} 
+
+.image{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;}
+
+.photo{
+    width: 250px;
+    border-radius: 9px ;
+}
+.rating{
+    display: flex;
+    align-items: center;
+    font-family: 'Poppins';
+}
+.star{
+    padding-right: 10px;
+}
+.title{
+    margin-top: -20px;
+    font-family: "Poppins";
+    font-style: normal;
+}
+.price{
+    font-family: "Poppins";
+    font-style: Bold;
+    font-size: 10px;
+}

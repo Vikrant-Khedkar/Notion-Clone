@@ -1,0 +1,18 @@
+.logo{
+    display: flex;
+    height: 50px;
+    /* display: flex; */
+    padding: 20px 36px;
+}
+.parent{
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    /* margin: 0; */
+    /* margin-top: -10px; */
+    background-color: red;
+    height: 200px;
+    width: auto;
+
+}
+.body{
+    margin: 0px;
+}
